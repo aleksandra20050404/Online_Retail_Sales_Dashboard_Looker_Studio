@@ -23,13 +23,10 @@
 ---
 
 ## Dashboard Link
-
-🔗 **Access Looker Studio Dashboard:**  
-[https://datastudio.google.com/embed/reporting/bcd72167-db62-4064-b38d-b8112ee19a7e/page/XRKuF](https://datastudio.google.com/embed/reporting/bcd72167-db62-4064-b38d-b8112ee19a7e/page/XRKuF)
+ **Access Looker Studio Dashboard:**  
 
 [![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?&style=for-the-badge&logo=looker&logoColor=white)](https://datastudio.google.com/)
  
-[ Looker Studio Dashboard](https://datastudio.google.com/embed/reporting/bcd72167-db62-4064-b38d-b8112ee19a7e/page/XRKuF)
 
 ---
 
